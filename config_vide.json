@@ -1,0 +1,20 @@
+{
+    "token": "",
+    "prefix": "!",
+    "Moulinsard": {
+        "role_bot":"",
+        "channel_bot": ""
+    },
+    "AgosJDR": {
+        "role_bot":"",    
+        "channel_bot":""
+    },
+    "greetings": {
+        "channel":"",
+        "role":""
+    },
+    "nasa": {
+        "token":"",
+        "channel":""
+    }
+}
